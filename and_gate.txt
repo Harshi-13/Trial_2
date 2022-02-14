@@ -1,3 +1,5 @@
+Name : Designing a computational AND chip
+Date : 14th feb 
 CHIP And {
     IN a, b;
     OUT out;
